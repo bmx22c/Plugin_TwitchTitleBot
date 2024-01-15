@@ -1,0 +1,10 @@
+[meta]
+name = "Twitch Title Bot"
+author = "bmx22c"
+category = "Streaming"
+
+siteid = 142
+version = "1.0"
+
+[script]
+optional_dependencies = [ "CheckpointCounter" ]
